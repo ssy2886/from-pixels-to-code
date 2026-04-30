@@ -15,6 +15,7 @@ The engineering application follows this high-level flow:
 - `../core/SumStruct.cs`
 - `../core/CodeGeneration/`
 
-## Missing asset
+## Included figures
 
-- No existing GUI screenshot source file was found for `gui_screenshot.png`
+- `gui_screenshot.png`: prototype interface screenshot from the manuscript source
+- `engineering_conversion_flow.jpg`: process diagram showing engineering drawing conversion into attributed graph and code
