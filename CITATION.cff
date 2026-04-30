@@ -1,0 +1,6 @@
+cff-version: 1.2.0
+message: "If you use this companion repository, please cite the associated manuscript."
+title: "Paper Companion Repository for SAMAToXML and RT-DETR-Based Symbol Detection"
+type: software
+version: 1.0.0
+abstract: "A reduced repository containing selected code, configurations, example data, and notes for manuscript inspection."
